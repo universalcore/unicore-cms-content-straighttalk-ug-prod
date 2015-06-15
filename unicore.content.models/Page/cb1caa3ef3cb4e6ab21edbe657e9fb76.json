@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "\"Get to know your HIV Status Today \"", 
+  "primary_category": "28a68efc21904bcc91010123941c7d16", 
+  "created_at": "2015-06-15T17:39:31.820369+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-06-15T17:39:31.820573+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "**Story**\r\nSusan, 19 decided to get tested for HIV and tells what happened: \u201cI found out that my boyfriend had had sex with another girl while we were together. I had chucked him, but was left worried that I might be infected with HIV. We had been having unprotected sex. We had known each other for a long time, and we trusted each other so we hadn\u2019t used condoms. That was a big mistake, I know now. I was so worried. I decided to take an HIV test. After counseling, I was called to get my results. I was sweating, and my heart was beating very first. I wanted to run out of there, but I needed to know the results. \u201cYour result is negative. You do not have HIV,\u2019 the counselor told me. I closed my eyes and gave a prayer of thanks. I promised myself that I would not have sex again without insisting on condoms.\r\n\t\t\t\r\n**Fact**\r\nHIV is a virus that causes AIDS. It lives mainly in body fluids like blood, semen and vaginal fluids. If you get in contact with these body fluids, you can get HIV. This can happen: Through unprotected sex with a person who has HIV.  If a mother has HIV, her baby can get HIV during pregnancy, child birth or breastfeeding. Through sharing sharp objects like razor blades, needles and injections.\r\n\r\n**Act Now**\r\n\"For more information, SMS to 6300 or visit a Straight Talk Youth Centre in your area.\"", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "get-know-your-hiv-status-today", 
+  "uuid": "cb1caa3ef3cb4e6ab21edbe657e9fb76"
+}
