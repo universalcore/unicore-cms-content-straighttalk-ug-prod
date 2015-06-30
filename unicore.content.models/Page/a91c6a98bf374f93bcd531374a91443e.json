@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Test and know your next steps", 
+  "language": "eng_GB", 
+  "title": "Get all the information you need", 
+  "primary_category": "f0a68f62655745ff80be7af9b9660b29", 
+  "created_at": "2015-06-30T18:31:09.203701+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-06-30T18:31:09.203950+00:00", 
+  "_version": {
+    "package_version": "1.3.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "For more information, SMS to 6300 or visit a Straight Talk Youth Centre in your area.\r\n\r\nLet's Talk\r\n\r\nSexuality Facts", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "get-all-information-you-need", 
+  "uuid": "a91c6a98bf374f93bcd531374a91443e"
+}
