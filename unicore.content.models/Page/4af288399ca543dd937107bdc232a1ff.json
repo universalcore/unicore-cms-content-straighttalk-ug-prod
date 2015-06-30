@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Drink plenty of water", 
+  "language": "eng_GB", 
+  "title": "Tips on making your periods easier:", 
+  "primary_category": "f0a68f62655745ff80be7af9b9660b29", 
+  "created_at": "2015-06-30T18:24:58.907603+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-06-30T18:24:58.907822+00:00", 
+  "_version": {
+    "package_version": "1.3.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Always be prepared. \r\nKeep track of when your periods are due so that you are not caught by surprise. Avoid eating too much salt because salt causes your body to retain extra water especially around the time of your periods. \r\nDrink plenty of water.                                                                                                                          \r\n\r\nWhat to use: With or without money, you can deal with your periods just fine. You can use clean cotton clothes, toilet tissue,pads, or tampons. However, you need to change these frequently to avoid staining and bad smells. For more information, SMS to 6300 or visit a Straight Talk Youth Centre in your area.\r\n\r\n[Let\u2019s Talk][1]\r\n\r\nTake Action!\r\n\r\n\r\n  [1]: http://iogt.qa-hub.unicore.io/page/e1e12b440795421bb53cb543c1097812/", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "tips-making-your-periods-easier", 
+  "uuid": "4af288399ca543dd937107bdc232a1ff"
+}
