@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "We are an indigenous communication for development not for profit organisation", 
+  "language": "eng_GB", 
+  "title": "About Straight Talk Foundation", 
+  "primary_category": "691db4cc45d840e09f52f9ac2d9ec2e7", 
+  "created_at": "2015-07-03T09:35:20.736960+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-07-03T09:35:20.737184+00:00", 
+  "_version": {
+    "package_version": "1.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Straight Talk Foundation is an indigenous communication for development not for profit organisation with invaluable experience in the design and management of health and development communications programs. It started as a Unicef-funded newspaper, Straight Talk, in 1993 and acquired NGO status in 1997. The primary target audience of Straight Talk Foundation is young people 10- 24 years; while teachers and parents are targeted as a secondary audience.\r\n\r\nSTF has a specialised niche with young people, and a comparative advantage in communication for social and behaviour change. Straight Talk Foundation has technical expertise in education, early childhood development, HIV, sexual and reproductive health,  gender, life skills and rights, alcohol abuse other risk and protective factors,  livelihoods, environmental protection, disability and special needs as well as child protection. \r\n\r\n**Our Approaches:**\r\n\r\n 1. Provision of information: This is delivered through social media (Including SMS), mass media, and interpersonal communication to diverse audiences that STF targets. This aspect of STF work aims to promote positive behaviour through the use of innovative communication approaches in addressing diverse health and development issues in Uganda.\r\n\r\n 2. Youth friendly service delivery: These are practical facilities that bring services closer to young people. To date, STF operates six youth centers that provide youth friendly spaces offering diverse sexual and reproductive health services. \r\n\r\n 3. Community engagement: STF interfaces with various sections of communities in the delivery of its programs. STF work with them entails advocacy with local government leaders, cultural and religious leaders. Members of communities who include parents, teachers and caregivers of young people are also targeted through such engagements.\r\n\r\n 4. Partnerships and collaborations: STF collaborates with several partners drawn from government and civil society. The work of such partners augments STF efforts country wide through leveraging of resources; joint implementation of program activities and monitoring.", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "about-straight-talk-foundation", 
+  "uuid": "972769fbf9ae42e5b7fbafb875622659"
+}
