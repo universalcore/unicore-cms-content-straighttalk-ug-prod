@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "cf9429b06f9940cb8d9ac150e29f1a70", 
+  "language": "lug_UG", 
+  "title": "Site Content", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "site-content", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
