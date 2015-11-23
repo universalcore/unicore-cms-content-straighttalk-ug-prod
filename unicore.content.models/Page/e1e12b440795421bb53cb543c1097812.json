@@ -5,13 +5,13 @@
   "title": "Faith's first time", 
   "primary_category": "28a68efc21904bcc91010123941c7d16", 
   "created_at": "2015-06-15T16:57:18+00:00", 
-  "featured_in_category": true, 
-  "modified_at": "2015-11-20T07:59:50.236868+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-11-23T06:54:48.382680+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,9 +19,9 @@
     "9152ad836eec41959de1ffc5cf914d47"
   ], 
   "id": null, 
-  "content": "Faith begun her menstruation while at school. It was very embarrassing for her. She narrates, \"It happened in class with all my classmates around. I stood up to go to the toilet. My friend, pulled me down and said I should sit down quickly.\" \r\n\r\n\"Your uniform has a red patch,\" my friend whisphered. \r\n\r\n\"When I realised that I had stained my yellow uniform, I wanted the ground to swallow me there and then. Oh, it was such a terrible experience. I was so embarrassed. My friends helped me, but I spent the whole week at home. I could not bring myself to come to school and face my classmates. I thought the whole school knew. It took a while but I know now, that it is normal. I learnt how to count my days and keep track on the calendar so that it does not happen again. I always pack a pad and extra party, just in case  but I am now always ready. Fellow girls, be prepared, always! \r\n\r\n[Sexuality Facts][1]\r\n\r\n[Take Action!][2]\r\n\r\n\r\n  [1]: http://iogt.qa-hub.unicore.io/page/9666e59df7d3463d98508708cb1a7b61/\r\n  [2]: http://iogt.qa-hub.unicore.io/page/4af288399ca543dd937107bdc232a1ff/", 
+  "content": "Faith begun her menstruation while at school. It was very embarrassing for her. She narrates, \"It happened in class with all my classmates around. I stood up to go to the toilet. My friend, pulled me down and said I should sit down quickly.\" \r\n\r\n\"Your uniform has a red patch,\" my friend whisphered. \r\n\r\n\"When I realised that I had stained my yellow uniform, I wanted the ground to swallow me there and then. Oh, it was such a terrible experience. I was so embarrassed. My friends helped me, but I spent the whole week at home. I could not bring myself to come to school and face my classmates. I thought the whole school knew. It took a while but I know now, that it is normal. I learnt how to count my days and keep track on the calendar so that it does not happen again. I always pack a pad and extra party, just in case  but I am now always ready. Fellow girls, be prepared, always! \r\n\r\n", 
   "source": null, 
-  "featured": true, 
+  "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
